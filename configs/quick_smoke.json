@@ -1,0 +1,10 @@
+{
+  "mode": "quick",
+  "models": ["tanh", "siren", "gaussian"],
+  "gammas": [0.0, 0.001, 0.01, 0.05],
+  "seeds": [0],
+  "epochs": 100,
+  "optimizer": "adam",
+  "device": "cpu",
+  "output_dir": "pinn_activation_comparison/results/new_quick"
+}

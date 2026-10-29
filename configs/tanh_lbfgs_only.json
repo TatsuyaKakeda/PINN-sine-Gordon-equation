@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "models": ["tanh"],
+  "seeds": [0],
+  "epochs": 0,
+  "optimizer": "lbfgs",
+  "lbfgs_steps": 500,
+  "lbfgs_max_iter": 20,
+  "lbfgs_history_size": 50,
+  "lbfgs_lr": 1.0,
+  "lbfgs_tolerance_change": 1e-9,
+  "target_error": 0.01,
+  "device": "cpu",
+  "output_dir": "pinn_activation_comparison/results/2026-10-29_tanh_lbfgs_only_500"
+}

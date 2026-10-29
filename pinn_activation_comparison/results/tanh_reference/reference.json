@@ -1,0 +1,81 @@
+{
+  "source_run": "/Users/kakedatatsuya/PINN/Practice_PINN_harmonic_oscillator_ver3/pinn_activation_comparison/results/tanh_refined/runs/tanh_seed_0",
+  "checkpoint_sha256": "acbdf657714e4aa520bb65e7294917fc2da82f16e4595c9f7597cf97fbbf4f0b",
+  "criterion": {
+    "relative_l2_below": 0.01,
+    "dense_grid": "401x401",
+    "unseen_random_points": 10000
+  },
+  "seed_selection": "Seed 0 declared before L-BFGS refinements; other seeds not used to select this reference.",
+  "max_absolute_error": {
+    "value": 0.014026999473571777,
+    "x": -0.049999999999998934,
+    "t": 19.450000000000003
+  },
+  "dense_validation": {
+    "eval_nx": 401,
+    "eval_nt": 401,
+    "relative_l2": 0.002657631736154576,
+    "residual_rms": 0.0012851677480692468,
+    "center_amplitude_ratio": 1.0005512539418102,
+    "ic_velocity_relative_l2": 8.463711779874981e-05,
+    "validation_target": 0.01,
+    "meets_one_percent": true,
+    "center_relative_l2": 0.0023034918213374056,
+    "period_exact": 7.853981633974483,
+    "period_prediction": 7.857227232912555,
+    "period_relative_error": 0.00041324249143048775,
+    "positive_peak_count": 3,
+    "center_peak_amplitude_ratio": 1.001306176185608,
+    "center_late_rms_ratio": 1.001511812210083,
+    "near_zero_center": false,
+    "energy_initial": 9.599972251057626,
+    "energy_final": 9.614481773972512,
+    "energy_final_ratio": 1.001511413005729,
+    "energy_relative_l2": 0.0007158251660047959,
+    "field_relative_l2_quarter_1": 0.0007241789698895221,
+    "field_relative_l2_quarter_2": 0.001540090379285439,
+    "field_relative_l2_quarter_3": 0.0023231210036109592,
+    "field_relative_l2_quarter_4": 0.004764124788923112
+  },
+  "random_validation": {
+    "seed": 20261028,
+    "count": 10000,
+    "relative_l2": 0.0027014648588546356,
+    "residual_rms": 0.0012814226008109088
+  },
+  "runtime_source_sha256": {
+    "__init__.py": "f956e991129aeea3271b234b1753140f1f2074fa336a37b8bc50dd115e679186",
+    "activations.py": "ea7a9a9a184bcfeefe1e347689391e0c57942189fa16a3fbe4fba17660ee3618",
+    "checkpoints.py": "b229cd56440e494a498aca518849839c50df26ebd6054d170ae103d240d935cf",
+    "config.py": "694a97ff3774fb21ecb9f108edb6d8814b2059b07e96f102171707ec806bb36b",
+    "evaluate.py": "de573b18f2d1ae4fb99d73758a99c52a546776c44ea5a10b95494a1b387166e2",
+    "losses.py": "3d59bd03cfb3303a54b7a072560433cd2f199c896114afcd5d0741757a4ab18c",
+    "models.py": "8661614405ef72492f9a2a8ada94395567218c3cee9120b78de731f25f9c6290",
+    "optimization.py": "e916ba82c352b3dbdd44b3cba31156727eb5c517d9f7130db35492e8d4c002e7",
+    "physics.py": "08bc89244dd6236e3864e5d76f15e04d46da9cf3146cf829735f371de4ed5833",
+    "plot_results.py": "0ab4c01e653e739d74822e2ed8bb178cb1f0678dc1bf7762f02de80603781f7e",
+    "reporting.py": "8d453d6ede2b6211ea5882bacc4a782b0fbc492b15df1c45e73ee0ee97e7fa66",
+    "sampling.py": "d6c7f8c658ea2b2d2ad41bc74f24ecddeded71e4251204dc86e054bd28f59f67",
+    "tanh_diagnostics.py": "a2e8e0761b10b9b1a0d0ea173bab8f61fa36d6b4d0954994dccc69c8cd0f9e2b",
+    "train.py": "ea3689480dfdd8b950b38bbf836ddf65bb44500e075b0324de4016aa85c32656",
+    "requirements.txt": "52d0baa7671655897a92972ec0ce2ba6dbbb8e9e38461e05a3948fcb9c7e9f6d",
+    "README.md": "4259ca67b46b360e9b58e8e346d82607fd55ea7820fb7e8b9237d95aa544230b"
+  },
+  "analysis_source_sha256": {
+    "verify_state.py": "33561e9a6d4b1226ff051730420fbfdd2ddc8481421032aafcaa3e61dd49b62b",
+    "validate_reference.py": "d1459a84e478136270c3c72bfa636316e7b96da2ef30869aecb688fbd95afca1",
+    "tanh_diagnostics.py": "afb956fc0479a2de77e15843768121d862dce24e8665e0c3afa97d24fc867f33"
+  },
+  "optimizer_state_preserved": true,
+  "fixed_training_points_verified": true,
+  "memory_note": "peak_rss_mb in metrics is process peak at training end, before final comparison plots.",
+  "training_environment": {
+    "python": "3.13.5",
+    "torch": "2.14.1",
+    "numpy": "2.5.4",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "threads": 1
+  }
+}

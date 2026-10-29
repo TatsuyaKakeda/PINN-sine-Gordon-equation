@@ -1,0 +1,10 @@
+{
+  "resume": "pinn_activation_comparison/results/tanh_reference/checkpoint.pt",
+  "models": ["tanh"],
+  "seeds": [0],
+  "epochs": 10000,
+  "optimizer": "adam_lbfgs",
+  "lbfgs_steps": 1200,
+  "lbfgs_tolerance_change": 1e-12,
+  "output_dir": "pinn_activation_comparison/results/new_tanh_continuation"
+}

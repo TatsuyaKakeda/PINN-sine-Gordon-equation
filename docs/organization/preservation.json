@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-29",
+  "original_file_count": 2137,
+  "unchanged_original_files": 2135,
+  "original_results_files_verified": 2102,
+  "original_results_unchanged": true,
+  "removed_original_files": [],
+  "moved_original_files": [],
+  "modified_original_files": [
+    {
+      "path": "pinn_activation_comparison/README.md",
+      "before_sha256": "a577329d95fb4db2086a6f60444dcd4ce84879d802b4d9c795f56563d5e1e433",
+      "after_sha256": "b625a2eb5d2394c27565b3178f3fa36dc30ee5613f23c7188d0ee5c1dc5970bc"
+    },
+    {
+      "path": "pinn_activation_comparison/plot_results.py",
+      "before_sha256": "0ab4c01e653e739d74822e2ed8bb178cb1f0678dc1bf7762f02de80603781f7e",
+      "after_sha256": "f079b6015cf46dfac7d5896e4389cac26e741bdecc8f94bc6fb7615be2c971b6"
+    }
+  ],
+  "added_files": [
+    "README.md",
+    "RESULTS.md",
+    "configs/README.md",
+    "configs/full_comparison.json",
+    "configs/quick_smoke.json",
+    "configs/tanh_continue.json",
+    "docs/PROJECT_MAP.md",
+    "docs/organization/before_files.json",
+    "docs/organization/catalog_2026-10-29/duplicates.csv",
+    "docs/organization/catalog_2026-10-29/duplicates.json",
+    "docs/organization/catalog_2026-10-29/experiments.json",
+    "docs/organization/catalog_2026-10-29/files.json",
+    "docs/organization/catalog_2026-10-29/runs.csv",
+    "docs/organization/preservation.json",
+    "docs/organization/verification.txt",
+    "docs/superpowers/plans/2026-10-29-project-organization.md",
+    "scripts/__init__.py",
+    "scripts/catalog_results.py",
+    "tests/test_plot_destination.py",
+    "tests/test_project_catalog.py"
+  ],
+  "training_executed": false,
+  "exclusions": [
+    ".venv/",
+    ".git/",
+    "__pycache__/",
+    ".pytest_cache/",
+    ".DS_Store"
+  ],
+  "verification": {
+    "tests_passed": 28,
+    "warning_policy": "error",
+    "cli_help_commands": 4,
+    "config_examples_validated": 3,
+    "external_plot_figures": 46
+  },
+  "duplicate_audit_before": {
+    "groups": 340,
+    "files_in_groups": 1024,
+    "extra_bytes": 104967217,
+    "deletions": 0
+  }
+}

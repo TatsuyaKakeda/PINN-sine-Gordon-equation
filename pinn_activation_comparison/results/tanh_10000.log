@@ -1,0 +1,38 @@
+Matplotlib is building the font cache; this may take a moment.
+tanh_seed_0: adam 5000; L2=0.840329, IC velocity L2=0.009504
+tanh_seed_0: adam 5500; L2=0.840557, IC velocity L2=0.0099775
+tanh_seed_0: adam 6000; L2=0.834937, IC velocity L2=0.00820096
+tanh_seed_0: adam 6500; L2=0.845704, IC velocity L2=0.00695879
+tanh_seed_0: adam 7000; L2=0.849825, IC velocity L2=0.0101219
+tanh_seed_0: adam 7500; L2=0.848764, IC velocity L2=0.0104219
+tanh_seed_0: adam 8000; L2=0.856794, IC velocity L2=0.00611724
+tanh_seed_0: adam 8500; L2=0.866726, IC velocity L2=0.00580458
+tanh_seed_0: adam 9000; L2=0.895818, IC velocity L2=0.0131842
+tanh_seed_0: adam 9500; L2=0.907529, IC velocity L2=0.00692624
+tanh_seed_0: adam 10000; L2=0.946916, IC velocity L2=0.00987304
+tanh_seed_0: completed; L2=0.946916, RMS=0.0711237, train=47.92s
+tanh_seed_1: adam 5000; L2=0.814173, IC velocity L2=0.0131367
+tanh_seed_1: adam 5500; L2=0.818427, IC velocity L2=0.0070924
+tanh_seed_1: adam 6000; L2=0.818316, IC velocity L2=0.0139574
+tanh_seed_1: adam 6500; L2=0.81906, IC velocity L2=0.0115956
+tanh_seed_1: adam 7000; L2=0.822691, IC velocity L2=0.00588385
+tanh_seed_1: adam 7500; L2=0.835888, IC velocity L2=0.00824417
+tanh_seed_1: adam 8000; L2=0.847207, IC velocity L2=0.00717689
+tanh_seed_1: adam 8500; L2=0.855708, IC velocity L2=0.00596216
+tanh_seed_1: adam 9000; L2=0.862205, IC velocity L2=0.00937135
+tanh_seed_1: adam 9500; L2=0.858823, IC velocity L2=0.00613787
+tanh_seed_1: adam 10000; L2=0.86267, IC velocity L2=0.0050883
+tanh_seed_1: completed; L2=0.86267, RMS=0.0578302, train=48.40s
+tanh_seed_2: adam 5000; L2=0.826514, IC velocity L2=0.00993929
+tanh_seed_2: adam 5500; L2=0.821485, IC velocity L2=0.00954893
+tanh_seed_2: adam 6000; L2=0.817967, IC velocity L2=0.00770265
+tanh_seed_2: adam 6500; L2=0.827293, IC velocity L2=0.0116047
+tanh_seed_2: adam 7000; L2=0.825602, IC velocity L2=0.0150565
+tanh_seed_2: adam 7500; L2=0.833875, IC velocity L2=0.0120839
+tanh_seed_2: adam 8000; L2=0.843551, IC velocity L2=0.00835396
+tanh_seed_2: adam 8500; L2=0.845764, IC velocity L2=0.00467405
+tanh_seed_2: adam 9000; L2=0.867427, IC velocity L2=0.0114078
+tanh_seed_2: adam 9500; L2=0.874011, IC velocity L2=0.00762042
+tanh_seed_2: adam 10000; L2=0.8723, IC velocity L2=0.00463416
+tanh_seed_2: completed; L2=0.8723, RMS=0.0648289, train=47.15s
+Results: /Users/kakedatatsuya/PINN/Practice_PINN_harmonic_oscillator_ver3/pinn_activation_comparison/results/tanh_10000

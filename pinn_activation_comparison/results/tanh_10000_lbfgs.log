@@ -1,0 +1,16 @@
+tanh_seed_0: adam 10000; L2=0.946916, IC velocity L2=0.00987304
+tanh_seed_0: lbfgs 0; L2=0.946916, IC velocity L2=0.00987304
+tanh_seed_0: lbfgs 10; L2=0.854546, IC velocity L2=0.0031923
+tanh_seed_0: lbfgs 20; L2=0.694052, IC velocity L2=0.00230705
+tanh_seed_0: lbfgs 30; L2=0.571226, IC velocity L2=0.00147087
+tanh_seed_0: lbfgs 40; L2=0.403882, IC velocity L2=0.00101969
+tanh_seed_0: lbfgs 50; L2=0.308976, IC velocity L2=0.000945922
+tanh_seed_0: lbfgs 60; L2=0.242905, IC velocity L2=0.000700737
+tanh_seed_0: lbfgs 70; L2=0.218679, IC velocity L2=0.000599054
+tanh_seed_0: lbfgs 80; L2=0.188655, IC velocity L2=0.000390584
+tanh_seed_0: lbfgs 90; L2=0.176746, IC velocity L2=0.000394808
+tanh_seed_0: lbfgs 100; L2=0.174426, IC velocity L2=0.000411322
+tanh_seed_0: completed; L2=0.174426, RMS=0.00633551, train=108.53s
+Results: /Users/kakedatatsuya/PINN/Practice_PINN_harmonic_oscillator_ver3/pinn_activation_comparison/results/tanh_10000_lbfgs
+       82.20 real        77.47 user         1.67 sys
+time: sysctl kern.clockrate: Operation not permitted

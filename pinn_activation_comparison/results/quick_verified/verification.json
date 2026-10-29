@@ -1,0 +1,17 @@
+{
+  "test_command": ".venv/bin/python -m pytest pinn_activation_comparison/tests -q -W error --tb=short",
+  "tests_passed": 90,
+  "test_seconds": 20.75,
+  "quick_runs_completed": 18,
+  "epochs_per_run": 100,
+  "figures_saved": 29,
+  "gamma_zero_weights_predictions_history_identical_seeds": [
+    0,
+    1,
+    2
+  ],
+  "nan_inf_runs": 0,
+  "divergence_threshold_exceeded_runs": 0,
+  "mps_available": false,
+  "full_mode_executed": false
+}

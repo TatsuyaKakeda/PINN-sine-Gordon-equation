@@ -1,0 +1,12 @@
+{
+  "mode": "full",
+  "models": ["tanh", "siren", "gaussian"],
+  "gammas": [0.0, 0.001, 0.01, 0.05],
+  "seeds": [0, 1, 2],
+  "epochs": 5000,
+  "optimizer": "adam",
+  "eval_every": 500,
+  "checkpoint_every": 500,
+  "device": "cpu",
+  "output_dir": "pinn_activation_comparison/results/new_full_comparison"
+}

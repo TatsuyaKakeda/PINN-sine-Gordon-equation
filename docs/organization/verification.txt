@@ -1,0 +1,38 @@
+............................                                             [100%]
+28 passed in 8.30s
+
+Read-only CLI and config checks (no training):
+Config valid (not executed): configs/full_comparison.json; mode=full; epochs=5000; optimizer=adam; seeds=(0, 1, 2)
+Config valid (not executed): configs/quick_smoke.json; mode=quick; epochs=100; optimizer=adam; seeds=(0,)
+Config valid (not executed): configs/tanh_continue.json; mode=full; epochs=10000; optimizer=adam_lbfgs; seeds=(0,)
+CLI help passed: train
+CLI help passed: evaluate
+CLI help passed: plot_results
+CLI help passed: tanh_diagnostics
+Read-only evaluation passed: {
+  "checkpoint_status": "completed",
+  "relative_l2": 0.0026666779402669703,
+  "residual_rms": 0.0013171487205815085,
+  "center_amplitude_ratio": 1.0005475531099692,
+  "ic_velocity_relative_l2": 8.470078458838772e-05
+}
+
+Real-data figure output check (new temporary directory only):
+{
+  "command": [
+    "/Users/kakedatatsuya/PINN/Practice_PINN_harmonic_oscillator_ver3/.venv/bin/python",
+    "-m",
+    "pinn_activation_comparison.plot_results",
+    "--results",
+    "pinn_activation_comparison/results/tanh_10000_lbfgs",
+    "--output-dir",
+    "/var/folders/d9/b28gttwd43bf22g9slf_q35r0000gn/T/pinn_organization_figures_3jr0hs8c"
+  ],
+  "exit_code": 0,
+  "figures": 46,
+  "output": "/var/folders/d9/b28gttwd43bf22g9slf_q35r0000gn/T/pinn_organization_figures_3jr0hs8c",
+  "training_executed": false
+}
+
+Preservation: 2102 original result files unchanged; 0 removed/moved files; modified existing files: ['pinn_activation_comparison/README.md', 'pinn_activation_comparison/plot_results.py']
+Final documentation check: 99 local links resolve; 7 saved directories / 43 rows; all archived source hashes verified; reference checkpoint matches canonical source.

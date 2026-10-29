@@ -1,0 +1,175 @@
+tanh_seed_0: adam 0; L2=1.01693, IC velocity L2=1.00013
+tanh_seed_0: adam 500; L2=0.895092, IC velocity L2=0.023256
+tanh_seed_0: adam 1000; L2=0.865666, IC velocity L2=0.0182359
+tanh_seed_0: adam 1500; L2=0.847769, IC velocity L2=0.0132759
+tanh_seed_0: adam 2000; L2=0.84012, IC velocity L2=0.0102882
+tanh_seed_0: adam 2500; L2=0.836616, IC velocity L2=0.0165165
+tanh_seed_0: adam 3000; L2=0.835115, IC velocity L2=0.00884741
+tanh_seed_0: adam 3500; L2=0.823294, IC velocity L2=0.0124549
+tanh_seed_0: adam 4000; L2=0.831568, IC velocity L2=0.00979525
+tanh_seed_0: adam 4500; L2=0.849743, IC velocity L2=0.013449
+tanh_seed_0: adam 5000; L2=0.840329, IC velocity L2=0.009504
+tanh_seed_0: completed; L2=0.840329, RMS=0.084908, train=24.29s
+siren_seed_0: adam 0; L2=1.0169, IC velocity L2=0.999253
+siren_seed_0: adam 500; L2=1.00641, IC velocity L2=0.999904
+siren_seed_0: adam 1000; L2=1.0029, IC velocity L2=0.999992
+siren_seed_0: adam 1500; L2=1.00092, IC velocity L2=0.999955
+siren_seed_0: adam 2000; L2=1.00017, IC velocity L2=1.00162
+siren_seed_0: adam 2500; L2=1.00177, IC velocity L2=0.99998
+siren_seed_0: adam 3000; L2=1.00026, IC velocity L2=0.999992
+siren_seed_0: adam 3500; L2=0.999985, IC velocity L2=0.999988
+siren_seed_0: adam 4000; L2=0.999901, IC velocity L2=1.00057
+siren_seed_0: adam 4500; L2=0.999926, IC velocity L2=1.00001
+siren_seed_0: adam 5000; L2=0.999178, IC velocity L2=0.997799
+siren_seed_0: completed; L2=0.999178, RMS=2.35935, train=35.83s
+gaussian_gamma_0.0_seed_0: adam 0; L2=1.0169, IC velocity L2=0.999253
+gaussian_gamma_0.0_seed_0: adam 500; L2=1.00641, IC velocity L2=0.999904
+gaussian_gamma_0.0_seed_0: adam 1000; L2=1.0029, IC velocity L2=0.999992
+gaussian_gamma_0.0_seed_0: adam 1500; L2=1.00092, IC velocity L2=0.999955
+gaussian_gamma_0.0_seed_0: adam 2000; L2=1.00017, IC velocity L2=1.00162
+gaussian_gamma_0.0_seed_0: adam 2500; L2=1.00177, IC velocity L2=0.99998
+gaussian_gamma_0.0_seed_0: adam 3000; L2=1.00026, IC velocity L2=0.999992
+gaussian_gamma_0.0_seed_0: adam 3500; L2=0.999985, IC velocity L2=0.999988
+gaussian_gamma_0.0_seed_0: adam 4000; L2=0.999901, IC velocity L2=1.00057
+gaussian_gamma_0.0_seed_0: adam 4500; L2=0.999926, IC velocity L2=1.00001
+gaussian_gamma_0.0_seed_0: adam 5000; L2=0.999178, IC velocity L2=0.997799
+gaussian_gamma_0.0_seed_0: completed; L2=0.999178, RMS=2.35935, train=36.15s
+gaussian_gamma_0.001_seed_0: adam 0; L2=1.01918, IC velocity L2=1.00093
+gaussian_gamma_0.001_seed_0: adam 500; L2=0.999206, IC velocity L2=0.999911
+gaussian_gamma_0.001_seed_0: adam 1000; L2=0.999955, IC velocity L2=0.999927
+gaussian_gamma_0.001_seed_0: adam 1500; L2=0.99995, IC velocity L2=0.999896
+gaussian_gamma_0.001_seed_0: adam 2000; L2=1.00001, IC velocity L2=1.00059
+gaussian_gamma_0.001_seed_0: adam 2500; L2=0.999963, IC velocity L2=0.999897
+gaussian_gamma_0.001_seed_0: adam 3000; L2=1.00046, IC velocity L2=0.998986
+gaussian_gamma_0.001_seed_0: adam 3500; L2=0.999955, IC velocity L2=0.999729
+gaussian_gamma_0.001_seed_0: adam 4000; L2=0.999967, IC velocity L2=0.999645
+gaussian_gamma_0.001_seed_0: adam 4500; L2=0.999995, IC velocity L2=0.999417
+gaussian_gamma_0.001_seed_0: adam 5000; L2=0.999944, IC velocity L2=0.999053
+gaussian_gamma_0.001_seed_0: completed; L2=0.999944, RMS=0.0729308, train=64.71s
+gaussian_gamma_0.01_seed_0: adam 0; L2=1.02351, IC velocity L2=1.00268
+gaussian_gamma_0.01_seed_0: adam 500; L2=0.999987, IC velocity L2=0.97915
+gaussian_gamma_0.01_seed_0: adam 1000; L2=1.00206, IC velocity L2=1
+gaussian_gamma_0.01_seed_0: adam 1500; L2=1.00045, IC velocity L2=0.999998
+gaussian_gamma_0.01_seed_0: adam 2000; L2=1.00002, IC velocity L2=0.999999
+gaussian_gamma_0.01_seed_0: adam 2500; L2=1.00018, IC velocity L2=1.0003
+gaussian_gamma_0.01_seed_0: adam 3000; L2=1, IC velocity L2=0.999835
+gaussian_gamma_0.01_seed_0: adam 3500; L2=1.00025, IC velocity L2=0.999934
+gaussian_gamma_0.01_seed_0: adam 4000; L2=0.999609, IC velocity L2=0.999995
+gaussian_gamma_0.01_seed_0: adam 4500; L2=0.999949, IC velocity L2=0.999994
+gaussian_gamma_0.01_seed_0: adam 5000; L2=0.999957, IC velocity L2=0.999975
+gaussian_gamma_0.01_seed_0: completed; L2=0.999957, RMS=0.0285046, train=64.01s
+gaussian_gamma_0.05_seed_0: adam 0; L2=1.0207, IC velocity L2=0.999743
+gaussian_gamma_0.05_seed_0: adam 500; L2=0.93697, IC velocity L2=0.0577851
+gaussian_gamma_0.05_seed_0: adam 1000; L2=1.0462, IC velocity L2=0.0177359
+gaussian_gamma_0.05_seed_0: adam 1500; L2=1.08397, IC velocity L2=0.020156
+gaussian_gamma_0.05_seed_0: adam 2000; L2=1.08734, IC velocity L2=0.00996955
+gaussian_gamma_0.05_seed_0: adam 2500; L2=1.05733, IC velocity L2=0.0103368
+gaussian_gamma_0.05_seed_0: adam 3000; L2=1.07472, IC velocity L2=0.0251178
+gaussian_gamma_0.05_seed_0: adam 3500; L2=0.999642, IC velocity L2=0.999992
+gaussian_gamma_0.05_seed_0: adam 4000; L2=0.999906, IC velocity L2=0.999991
+gaussian_gamma_0.05_seed_0: adam 4500; L2=0.999954, IC velocity L2=0.999988
+gaussian_gamma_0.05_seed_0: adam 5000; L2=0.999958, IC velocity L2=1.00002
+gaussian_gamma_0.05_seed_0: completed; L2=0.999958, RMS=0.0560084, train=65.78s
+tanh_seed_1: adam 0; L2=1.30694, IC velocity L2=0.998106
+tanh_seed_1: adam 500; L2=0.902087, IC velocity L2=0.0302669
+tanh_seed_1: adam 1000; L2=0.888847, IC velocity L2=0.0311529
+tanh_seed_1: adam 1500; L2=0.863183, IC velocity L2=0.0175647
+tanh_seed_1: adam 2000; L2=0.833817, IC velocity L2=0.0176034
+tanh_seed_1: adam 2500; L2=0.83269, IC velocity L2=0.0132869
+tanh_seed_1: adam 3000; L2=0.824982, IC velocity L2=0.00986503
+tanh_seed_1: adam 3500; L2=0.821295, IC velocity L2=0.0139695
+tanh_seed_1: adam 4000; L2=0.814935, IC velocity L2=0.0103436
+tanh_seed_1: adam 4500; L2=0.815717, IC velocity L2=0.0117134
+tanh_seed_1: adam 5000; L2=0.814173, IC velocity L2=0.0131367
+tanh_seed_1: completed; L2=0.814173, RMS=0.0807511, train=24.65s
+siren_seed_1: adam 0; L2=1.01255, IC velocity L2=1.00138
+siren_seed_1: adam 228; L2=1.00428, IC velocity L2=1.35669
+siren_seed_1: diverged; L2=1.00428, RMS=155.042, train=1.64s
+gaussian_gamma_0.0_seed_1: adam 0; L2=1.01255, IC velocity L2=1.00138
+gaussian_gamma_0.0_seed_1: adam 228; L2=1.00428, IC velocity L2=1.35669
+gaussian_gamma_0.0_seed_1: diverged; L2=1.00428, RMS=155.042, train=1.68s
+gaussian_gamma_0.001_seed_1: adam 0; L2=1.01179, IC velocity L2=0.990063
+gaussian_gamma_0.001_seed_1: adam 500; L2=1.00083, IC velocity L2=1.04281
+gaussian_gamma_0.001_seed_1: adam 1000; L2=0.999675, IC velocity L2=0.999996
+gaussian_gamma_0.001_seed_1: adam 1500; L2=0.999884, IC velocity L2=0.999993
+gaussian_gamma_0.001_seed_1: adam 2000; L2=0.999927, IC velocity L2=1.00001
+gaussian_gamma_0.001_seed_1: adam 2500; L2=0.999909, IC velocity L2=1.00021
+gaussian_gamma_0.001_seed_1: adam 3000; L2=0.999903, IC velocity L2=1
+gaussian_gamma_0.001_seed_1: adam 3500; L2=1.00014, IC velocity L2=0.996294
+gaussian_gamma_0.001_seed_1: adam 4000; L2=1.00004, IC velocity L2=1
+gaussian_gamma_0.001_seed_1: adam 4500; L2=0.999927, IC velocity L2=1
+gaussian_gamma_0.001_seed_1: adam 5000; L2=0.999927, IC velocity L2=1
+gaussian_gamma_0.001_seed_1: completed; L2=0.999927, RMS=0.00800941, train=64.77s
+gaussian_gamma_0.01_seed_1: adam 0; L2=1.00835, IC velocity L2=0.986339
+gaussian_gamma_0.01_seed_1: adam 500; L2=0.999846, IC velocity L2=0.99968
+gaussian_gamma_0.01_seed_1: adam 1000; L2=0.999942, IC velocity L2=0.999948
+gaussian_gamma_0.01_seed_1: adam 1500; L2=0.999941, IC velocity L2=0.99992
+gaussian_gamma_0.01_seed_1: adam 2000; L2=0.999937, IC velocity L2=0.999896
+gaussian_gamma_0.01_seed_1: adam 2500; L2=0.999958, IC velocity L2=0.999903
+gaussian_gamma_0.01_seed_1: adam 3000; L2=0.999928, IC velocity L2=0.999861
+gaussian_gamma_0.01_seed_1: adam 3500; L2=0.999973, IC velocity L2=0.999791
+gaussian_gamma_0.01_seed_1: adam 4000; L2=0.999909, IC velocity L2=0.999483
+gaussian_gamma_0.01_seed_1: adam 4500; L2=0.999991, IC velocity L2=0.999396
+gaussian_gamma_0.01_seed_1: adam 5000; L2=0.999947, IC velocity L2=0.996997
+gaussian_gamma_0.01_seed_1: completed; L2=0.999947, RMS=0.150443, train=63.68s
+gaussian_gamma_0.05_seed_1: adam 0; L2=1.0079, IC velocity L2=0.995886
+gaussian_gamma_0.05_seed_1: adam 500; L2=0.948356, IC velocity L2=0.0429512
+gaussian_gamma_0.05_seed_1: adam 1000; L2=0.986246, IC velocity L2=0.0335651
+gaussian_gamma_0.05_seed_1: adam 1500; L2=0.995948, IC velocity L2=0.0492048
+gaussian_gamma_0.05_seed_1: adam 2000; L2=1.00248, IC velocity L2=0.0439617
+gaussian_gamma_0.05_seed_1: adam 2500; L2=1.01356, IC velocity L2=0.0528383
+gaussian_gamma_0.05_seed_1: adam 3000; L2=1.01603, IC velocity L2=0.0366962
+gaussian_gamma_0.05_seed_1: adam 3500; L2=1.0371, IC velocity L2=0.0364332
+gaussian_gamma_0.05_seed_1: adam 4000; L2=0.997815, IC velocity L2=0.998259
+gaussian_gamma_0.05_seed_1: adam 4500; L2=0.999533, IC velocity L2=0.99874
+gaussian_gamma_0.05_seed_1: adam 5000; L2=0.999791, IC velocity L2=0.999222
+gaussian_gamma_0.05_seed_1: completed; L2=0.999791, RMS=0.454292, train=63.49s
+tanh_seed_2: adam 0; L2=0.999883, IC velocity L2=0.998266
+tanh_seed_2: adam 500; L2=0.887552, IC velocity L2=0.0254112
+tanh_seed_2: adam 1000; L2=0.861152, IC velocity L2=0.0229446
+tanh_seed_2: adam 1500; L2=0.846789, IC velocity L2=0.0132877
+tanh_seed_2: adam 2000; L2=0.829984, IC velocity L2=0.0168477
+tanh_seed_2: adam 2500; L2=0.817392, IC velocity L2=0.0130201
+tanh_seed_2: adam 3000; L2=0.828337, IC velocity L2=0.0143303
+tanh_seed_2: adam 3500; L2=0.826452, IC velocity L2=0.00772115
+tanh_seed_2: adam 4000; L2=0.83155, IC velocity L2=0.0144411
+tanh_seed_2: adam 4500; L2=0.824646, IC velocity L2=0.00966939
+tanh_seed_2: adam 5000; L2=0.826514, IC velocity L2=0.00993929
+tanh_seed_2: completed; L2=0.826514, RMS=0.0809818, train=23.54s
+siren_seed_2: adam 0; L2=0.992639, IC velocity L2=1.004
+siren_seed_2: adam 235; L2=0.999685, IC velocity L2=1.61914
+siren_seed_2: diverged; L2=0.999685, RMS=175.006, train=1.69s
+gaussian_gamma_0.0_seed_2: adam 0; L2=0.992639, IC velocity L2=1.004
+gaussian_gamma_0.0_seed_2: adam 235; L2=0.999685, IC velocity L2=1.61914
+gaussian_gamma_0.0_seed_2: diverged; L2=0.999685, RMS=175.006, train=1.69s
+gaussian_gamma_0.001_seed_2: adam 0; L2=0.993294, IC velocity L2=1.00324
+gaussian_gamma_0.001_seed_2: adam 500; L2=0.999332, IC velocity L2=1.00003
+gaussian_gamma_0.001_seed_2: adam 1000; L2=0.999959, IC velocity L2=0.999995
+gaussian_gamma_0.001_seed_2: adam 1500; L2=1.00002, IC velocity L2=0.998958
+gaussian_gamma_0.001_seed_2: adam 2000; L2=0.99994, IC velocity L2=0.999605
+gaussian_gamma_0.001_seed_2: adam 2500; L2=0.999999, IC velocity L2=0.999833
+gaussian_gamma_0.001_seed_2: adam 2812; L2=1.01886, IC velocity L2=1.59709
+gaussian_gamma_0.001_seed_2: diverged; L2=1.01886, RMS=300.247, train=35.80s
+gaussian_gamma_0.01_seed_2: adam 0; L2=0.993411, IC velocity L2=0.998846
+gaussian_gamma_0.01_seed_2: adam 500; L2=0.999531, IC velocity L2=0.999747
+gaussian_gamma_0.01_seed_2: adam 1000; L2=0.999954, IC velocity L2=0.999971
+gaussian_gamma_0.01_seed_2: adam 1500; L2=0.999972, IC velocity L2=0.999987
+gaussian_gamma_0.01_seed_2: adam 2000; L2=0.999845, IC velocity L2=1.00004
+gaussian_gamma_0.01_seed_2: adam 2500; L2=1.00002, IC velocity L2=0.999636
+gaussian_gamma_0.01_seed_2: adam 3000; L2=1.00009, IC velocity L2=1.0002
+gaussian_gamma_0.01_seed_2: adam 3500; L2=0.999966, IC velocity L2=0.99998
+gaussian_gamma_0.01_seed_2: adam 4000; L2=0.999976, IC velocity L2=0.99998
+gaussian_gamma_0.01_seed_2: adam 4500; L2=0.99997, IC velocity L2=0.999974
+gaussian_gamma_0.01_seed_2: adam 5000; L2=0.999947, IC velocity L2=0.999895
+gaussian_gamma_0.01_seed_2: completed; L2=0.999947, RMS=0.0351412, train=62.22s
+gaussian_gamma_0.05_seed_2: adam 0; L2=0.993224, IC velocity L2=0.999545
+gaussian_gamma_0.05_seed_2: adam 500; L2=0.932445, IC velocity L2=0.0611469
+gaussian_gamma_0.05_seed_2: adam 1000; L2=0.94502, IC velocity L2=0.0366611
+gaussian_gamma_0.05_seed_2: adam 1500; L2=0.964707, IC velocity L2=0.0210356
+gaussian_gamma_0.05_seed_2: adam 2000; L2=0.998545, IC velocity L2=0.0233786
+gaussian_gamma_0.05_seed_2: adam 2500; L2=0.982132, IC velocity L2=0.0499688
+gaussian_gamma_0.05_seed_2: adam 3000; L2=1.0326, IC velocity L2=0.0236149
+gaussian_gamma_0.05_seed_2: adam 3500; L2=1.032, IC velocity L2=0.030916
+gaussian_gamma_0.05_seed_2: adam 3704; L2=0.993619, IC velocity L2=1.31904
+gaussian_gamma_0.05_seed_2: diverged; L2=0.993619, RMS=105.714, train=46.29s
+Results: /Users/kakedatatsuya/PINN/Practice_PINN_harmonic_oscillator_ver3/pinn_activation_comparison/results/full_5000

@@ -1,0 +1,13 @@
+{
+  "tests_passed": 241,
+  "adam_weights_optimizer_and_rng_restored_exactly": true,
+  "lbfgs_weights_curvature_and_adam_state_preserved_when_tolerance_changed": true,
+  "fixed_training_points_and_loss_weights_verified": true,
+  "reference_checkpoint_sha256": "acbdf657714e4aa520bb65e7294917fc2da82f16e4595c9f7597cf97fbbf4f0b",
+  "figures_visually_reviewed": [
+    "optimization_progress.png",
+    "center_trace_seed_0.png",
+    "heatmap_tanh_seed_0.png",
+    "spatial_profiles_seed_0.png"
+  ]
+}

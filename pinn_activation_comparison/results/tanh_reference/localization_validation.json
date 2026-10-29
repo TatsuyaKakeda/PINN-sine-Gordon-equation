@@ -1,0 +1,26 @@
+[
+  {
+    "t": 1.9634954084936207,
+    "exact_width": 1.6065698557716785,
+    "predicted_width": 1.6065808151844163,
+    "width_relative_error": 6.821622289487905e-06
+  },
+  {
+    "t": 5.890486225480862,
+    "exact_width": 1.6065698557716785,
+    "predicted_width": 1.6062238299287779,
+    "width_relative_error": 0.00021538175987656505
+  },
+  {
+    "t": 15.0,
+    "exact_width": 1.542163164329843,
+    "predicted_width": 1.543395951513384,
+    "width_relative_error": 0.000799388295645409
+  },
+  {
+    "t": 20.0,
+    "exact_width": 1.5203740534450154,
+    "predicted_width": 1.5213622520161019,
+    "width_relative_error": 0.000649970689020396
+  }
+]

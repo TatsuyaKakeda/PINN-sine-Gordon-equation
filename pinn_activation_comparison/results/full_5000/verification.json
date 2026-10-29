@@ -1,0 +1,25 @@
+{
+  "tests_passed": 230,
+  "test_command": ".venv/bin/python -m pytest pinn_activation_comparison/tests -q -W error",
+  "runs_attempted": 18,
+  "runs_completed_5000": 12,
+  "runs_stopped_by_gradient_threshold": 6,
+  "runs_nonfinite": 0,
+  "relative_l2_recomputed_from_saved_predictions": true,
+  "shared_training_points_verified": true,
+  "gamma_zero_exact_weights_adam_state_losses_predictions_all_seeds": true,
+  "evaluation_and_checkpoint_cadence_verified": true,
+  "runtime_source_hashes_verified": true,
+  "comparison_figures": 69,
+  "center_snapshot_figures": 156,
+  "post_run_source_sha256": {
+    "checkpoints.py": "5f810d709d1c69417f7720c275d27bc971b71c414514046e6523cf24beeda3ea",
+    "README.md": "4259ca67b46b360e9b58e8e346d82607fd55ea7820fb7e8b9237d95aa544230b"
+  },
+  "post_run_changes_note": "Resume path recovery and README result links only; fresh-run training algorithm and scientific outputs unchanged.",
+  "figure_visual_review": [
+    "convergence_mean_std.png",
+    "error_convergence.png",
+    "center_trace_seed_0.png"
+  ]
+}

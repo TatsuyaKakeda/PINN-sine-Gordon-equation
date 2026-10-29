@@ -1,0 +1,45 @@
+tanh_seed_0: lbfgs 100; L2=0.174426, IC velocity L2=0.000411322
+tanh_seed_0: lbfgs 110; L2=0.165852, IC velocity L2=0.000325832
+tanh_seed_0: lbfgs 120; L2=0.170706, IC velocity L2=0.000292307
+tanh_seed_0: lbfgs 130; L2=0.157661, IC velocity L2=0.000316375
+tanh_seed_0: lbfgs 140; L2=0.143388, IC velocity L2=0.000324572
+tanh_seed_0: lbfgs 150; L2=0.130312, IC velocity L2=0.000237572
+tanh_seed_0: lbfgs 160; L2=0.122318, IC velocity L2=0.000227209
+tanh_seed_0: lbfgs 170; L2=0.116672, IC velocity L2=0.000190283
+tanh_seed_0: lbfgs 180; L2=0.103357, IC velocity L2=0.000212762
+tanh_seed_0: lbfgs 190; L2=0.0986398, IC velocity L2=0.000235411
+tanh_seed_0: lbfgs 200; L2=0.0930799, IC velocity L2=0.000225236
+tanh_seed_0: lbfgs 210; L2=0.0834925, IC velocity L2=0.000254602
+tanh_seed_0: lbfgs 220; L2=0.0772851, IC velocity L2=0.000285284
+tanh_seed_0: lbfgs 230; L2=0.0646315, IC velocity L2=0.000277593
+tanh_seed_0: lbfgs 240; L2=0.0514, IC velocity L2=0.000239722
+tanh_seed_0: lbfgs 250; L2=0.0450417, IC velocity L2=0.000205837
+tanh_seed_0: lbfgs 260; L2=0.0414483, IC velocity L2=0.00019295
+tanh_seed_0: lbfgs 270; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 280; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 290; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 300; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 310; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 320; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 330; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 340; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 350; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 360; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 370; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 380; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 390; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 400; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 410; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 420; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 430; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 440; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 450; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 460; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 470; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 480; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 490; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: lbfgs 500; L2=0.0413309, IC velocity L2=0.000199354
+tanh_seed_0: completed; L2=0.0413309, RMS=0.00248642, train=201.39s
+Results: /Users/kakedatatsuya/PINN/Practice_PINN_harmonic_oscillator_ver3/pinn_activation_comparison/results/tanh_10000_lbfgs500
+      140.01 real       136.45 user         1.80 sys
+time: sysctl kern.clockrate: Operation not permitted

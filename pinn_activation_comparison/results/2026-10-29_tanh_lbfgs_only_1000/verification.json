@@ -1,0 +1,8 @@
+{
+  "initial_weights_match_reference": true,
+  "fixed_pools_match_reference": true,
+  "no_adam_state_or_updates": true,
+  "resume_curvature_preserved": true,
+  "previous_result_files_unchanged": 2102,
+  "actual_lbfgs_internal_iteration_counter": 11581
+}

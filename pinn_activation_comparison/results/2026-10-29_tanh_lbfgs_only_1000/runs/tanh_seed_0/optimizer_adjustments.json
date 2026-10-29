@@ -1,0 +1,10 @@
+{
+  "source_checkpoint": "pinn_activation_comparison/results/2026-10-29_tanh_lbfgs_only_500/runs/tanh_seed_0/checkpoint.pt",
+  "stage": "lbfgs",
+  "stage_step": 500,
+  "lbfgs_tolerance_change": {
+    "old": 1e-09,
+    "new": 1e-12
+  },
+  "history_preserved": true
+}
